@@ -1,0 +1,165 @@
+,Country,< $1.90[1],< $3.20[5],< $5.50[6],Continent
+1,Albania,1.7,10.4,38.0,Europe
+2,Algeria,0.5,3.9,29.2,Africa
+4,Angola,47.6,69.8,87.2,Africa
+6,Argentina,1.0,3.0,9.6,South America
+7,Armenia,2.1,13.0,50.4,Europe
+8,Australia,0.5,0.7,0.7,Oceania
+9,Austria,0.3,0.4,0.7,Europe
+10,Azerbaijan,0.0,0.0,8.2,Europe
+13,Bangladesh,14.8,52.9,84.5,Asia
+15,Belarus,0.0,0.0,0.4,Europe
+16,Belgium,0.1,0.2,0.3,Europe
+17,Belize,13.9,28.1,53.0,North America
+18,Benin,49.5,76.2,90.6,Africa
+19,Bhutan,1.5,12.0,38.6,Asia
+20,Bolivia,4.5,10.6,23.1,South America
+21,Bosnia and Herzegovina,0.1,0.8,3.9,Europe
+22,Botswana,16.1,38.5,60.4,Africa
+23,Brazil,4.4,9.2,19.9,South America
+25,Bulgaria,1.3,3.1,7.5,Europe
+26,Burkina Faso,43.7,76.4,92.3,Africa
+27,Burundi,71.8,89.3,96.8,Africa
+29,Cameroon,23.8,44.7,68.9,Africa
+30,Canada,0.5,0.5,0.7,North America
+31,Cape Verde,3.2,14.9,40.8,Africa
+32,Central African Republic,66.3,83.1,92.8,Africa
+33,Chad,38.4,66.5,86.2,Africa
+34,Chile,0.3,0.7,3.7,South America
+35,China,0.5,5.4,23.9,Asia
+36,Colombia,4.1,10.9,27.8,South America
+37,Comoros,17.6,36.9,62.3,Africa
+38,"Congo, Democratic Republic of the",76.6,91.0,97.7,Africa
+39,"Congo, Republic of the",37.0,61.3,82.4,Africa
+40,Costa Rica,1.4,3.6,10.9,North America
+41,Croatia,0.5,1.2,3.8,Europe
+43,Cyprus,0.0,0.1,0.1,Europe
+44,Czech Republic,0.0,0.1,0.4,Europe
+45,Denmark,0.1,0.2,0.2,Europe
+46,Djibouti,17.1,40.2,70.6,Africa
+48,Dominican Republic,0.4,2.6,13.8,North America
+49,East Timor,30.7,73.3,94.0,Asia
+50,Ecuador,3.3,9.7,24.2,South America
+51,Egypt,3.2,26.1,70.4,Africa
+52,El Salvador,1.5,9.7,25.7,North America
+55,Estonia,0.5,1.0,2.0,Europe
+56,Eswatini,42.0,64.4,82.0,Africa
+57,Ethiopia,27.3,62.2,85.0,Africa
+58,Fiji,1.4,14.1,48.6,Oceania
+59,Finland,0.0,0.0,0.2,Europe
+60,France,0.0,0.2,0.2,Europe
+61,Gabon,3.4,11.2,32.2,Africa
+62,"Gambia, The",10.1,37.8,72.5,Africa
+63,Georgia,4.5,15.7,42.9,Europe
+64,Germany,0.0,0.0,0.2,Europe
+65,Ghana,13.3,30.5,56.9,Africa
+66,Greece,1.5,2.7,6.7,Europe
+68,Guatemala,8.7,24.2,48.8,North America
+69,Guinea,35.3,70.3,92.3,Africa
+70,Guinea-Bissau,67.1,84.5,93.4,Africa
+71,Guyana,14.0,29.5,56.4,South America
+72,Haiti,25.0,50.8,78.9,North America
+73,Honduras,16.5,30.0,50.3,North America
+74,Hungary,0.5,1.0,2.7,Europe
+75,Iceland,0.0,0.0,0.2,Europe
+76,India[7],13.4,50.4,82.3,Asia
+77,Indonesia,4.6,24.2,56.0,Asia
+78,Iran,0.3,2.5,11.6,Asia
+79,Iraq,2.5,17.9,57.3,Asia
+80,Ireland,0.2,0.5,0.7,Europe
+81,Israel,0.2,0.7,2.7,Asia
+82,Italy,2.0,2.5,3.5,Europe
+83,Ivory Coast,28.2,57.4,82.3,Africa
+84,Jamaica,1.7,9.1,29.7,North America
+85,Japan,0.2,0.5,1.0,Asia
+86,Jordan,0.1,2.1,18.1,Asia
+87,Kazakhstan,0.0,0.4,8.6,Asia
+88,Kenya,36.8,66.2,86.5,Africa
+89,Kiribati,12.9,34.6,69.4,Oceania
+91,"Korea, South",0.2,0.5,1.2,Asia
+92,Kosovo,0.2,2.6,21.6,Europe
+94,Kyrgyzstan,0.9,15.5,61.3,Asia
+95,Laos,22.7,58.7,85.0,Asia
+96,Latvia,0.7,1.5,4.0,Europe
+97,Lebanon,0.0,0.0,1.9,Asia
+98,Lesotho,59.7,78.1,89.9,Africa
+99,Liberia,40.9,72.6,92.2,Africa
+102,Lithuania,0.7,1.5,4.2,Europe
+103,Luxembourg,0.2,0.5,0.5,Europe
+104,Madagascar,77.6,91.0,97.3,Africa
+105,Malawi,70.3,89.4,96.7,Africa
+106,Malaysia,0.0,0.2,2.7,Asia
+107,Maldives,7.3,24.4,54.3,Asia
+108,Mali,49.7,79.3,94.9,Africa
+109,Malta,0.0,0.2,0.2,Europe
+111,Mauritania,6.0,24.1,58.8,Africa
+112,Mauritius,0.5,3.2,18.1,Africa
+113,Mexico,1.7,6.6,23.0,North America
+114,Micronesia,15.4,38.7,69.1,Oceania
+115,Moldova,0.0,0.9,13.3,Europe
+117,Mongolia,0.5,5.6,28.9,Asia
+118,Montenegro,0.0,0.8,4.8,Europe
+119,Morocco,1.0,7.7,31.3,Africa
+120,Mozambique,62.4,81.5,91.8,Africa
+121,Myanmar,6.2,29.5,67.2,Asia
+122,Namibia,13.4,29.6,50.1,Africa
+124,Nepal,15.0,50.8,83.0,Asia
+125,Netherlands,0.0,0.2,0.5,Europe
+127,Nicaragua,3.2,12.8,34.8,North America
+128,Niger,44.5,76.9,93.4,Africa
+129,Nigeria,53.5,77.6,92.1,Africa
+130,North Macedonia,5.2,9.7,23.1,Europe
+131,Norway,0.2,0.2,0.2,Europe
+133,Pakistan,3.9,34.7,75.4,Asia
+135,Palestine,1.0,3.4,23.6,Asia
+136,Panama,1.7,5.2,12.7,North America
+137,Papua New Guinea,38.0,65.6,86.9,Oceania
+138,Paraguay,1.6,5.9,17.0,South America
+139,Peru,2.6,8.3,22.1,South America
+140,Philippines,6.1,26.0,55.1,Asia
+141,Poland,0.0,0.1,2.1,Europe
+142,Portugal,0.5,1.2,3.0,Europe
+144,Romania,3.5,7.0,15.6,Europe
+145,Russia,0.0,0.2,2.3,"Asia, Europe"
+146,Rwanda,55.5,79.7,91.6,Africa
+148,Saint Lucia,4.7,10.6,20.3,North America
+150,Samoa,1.1,9.6,33.9,Oceania
+152,São Tomé and Príncipe,32.3,70.1,92.3,Africa
+154,Senegal,38.0,67.5,88.1,Africa
+155,Serbia,5.5,10.0,20.3,Europe
+156,Seychelles,1.1,2.5,6.6,Africa
+157,Sierra Leone,40.1,74.4,92.1,Africa
+159,Slovakia,0.7,1.0,3.0,Europe
+160,Slovenia,0.0,0.0,0.2,Europe
+161,Solomon Islands,25.1,58.8,84.7,Oceania
+163,South Africa,18.9,37.6,57.1,Africa
+164,South Sudan,42.7,64.8,84.8,Africa
+165,Spain,1.0,1.5,2.9,Europe
+166,Sri Lanka,0.8,10.9,40.5,Asia
+167,Sudan,14.9,40.5,73.2,Africa
+168,Suriname,23.4,42.8,55.7,South America
+169,Sweden,0.5,0.7,1.0,Europe
+170,Switzerland,0.0,0.0,0.0,Europe
+171,Syria,1.7,15.3,50.4,Asia
+172,Tajikistan,4.8,20.3,54.2,Asia
+173,Tanzania,49.1,79.0,93.1,Africa
+174,Thailand,0.0,0.5,8.6,Asia
+175,Togo,49.2,73.2,90.1,Africa
+176,Tonga,1.0,7.5,27.5,Asia
+177,Trinidad and Tobago,3.4,13.1,32.9,South America
+178,Tunisia,0.3,3.2,18.3,Africa
+179,Turkey,0.1,1.4,9.2,"Asia, Europe"
+180,Turkmenistan,51.4,77.8,92.5,Asia
+181,Tuvalu,3.3,17.6,46.7,Oceania
+182,Uganda,41.7,69.9,87.8,Africa
+183,Ukraine,0.0,0.4,4.0,Europe
+185,United Kingdom,0.2,0.2,0.7,Europe
+186,United States,1.2,1.5,2.0,North America
+187,Uruguay,0.1,0.4,2.9,South America
+188,Uzbekistan,62.1,86.4,96.4,Asia
+189,Vanuatu,13.1,39.2,72.3,Oceania
+191,Venezuela,10.2,17.8,35.6,South America
+192,Vietnam,1.9,7.0,23.6,Asia
+193,Yemen,18.8,52.2,81.6,Asia
+194,Zambia,57.5,74.3,87.2,Africa
+195,Zimbabwe,21.4,47.2,74.0,Africa

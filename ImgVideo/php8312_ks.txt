@@ -1,0 +1,4 @@
+display_errors	On
+post_max_size	32M -> 128M
+upload_max_filesize	32M -> 64M
+soap -> ??? Falta, lo ponemos???

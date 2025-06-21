@@ -1,0 +1,167 @@
+,Country,< $1.90,< $3.20,< $5.50,Continent
+0,Albania,10.0,26.6,38.4,Europe
+1,Algeria,0.32,2.23,20.83,Africa
+2,Angola,51.4,72.79,89.13,Africa
+3,Argentina,1.6,5.8,18.2,South America
+4,Armenia,0.4,6.9,44.7,Asia
+5,Australia,0.5,0.74,0.74,Oceania
+6,Austria,0.6,0.7,0.8,Europe
+7,Azerbaijan,0.0,0.0,0.0,Asia
+8,Bangladesh,6.62,37.44,76.01,Asia
+9,Belarus,0.0,0.0,0.1,Europe
+10,Belgium,0.1,0.1,0.2,Europe
+11,Belize,14.39,28.99,53.77,North America
+12,Benin,43.38,70.53,89.54,Africa
+13,Bhutan,0.66,6.73,28.98,Asia
+14,Bolivia,4.4,9.0,21.6,South America
+15,Bosnia and Herzegovina,0.06,0.24,2.01,Europe
+16,Botswana,13.09,34.29,57.61,Africa
+17,Brazil,1.7,4.3,13.1,South America
+18,Bulgaria,0.9,2.6,6.2,Europe
+19,Burkina Faso,32.82,70.09,89.96,Africa
+20,Burundi,79.53,92.77,98.02,Africa
+21,Cameroon,22.77,43.42,67.59,Africa
+22,Canada,0.25,0.5,0.74,North America
+23,Cape Verde,2.11,11.45,34.23,Africa
+24,Central African Republic,70.76,85.94,94.26,Africa
+25,Chad,41.04,68.83,88.0,Africa
+26,Chile,0.7,1.4,4.4,South America
+27,China,1.34,5.7,15.8,Asia
+28,Colombia,10.3,19.9,38.3,South America
+29,Comoros,18.32,38.47,63.94,Africa
+30,"Congo, Democratic Republic of the",70.99,88.31,96.78,Africa
+31,"Congo, Republic of the",55.65,77.62,91.94,Africa
+32,Costa Rica,2.1,5.7,16.1,North America
+33,Croatia,0.3,0.6,1.8,Europe
+34,Cyprus,0.2,0.2,0.3,Asia
+35,Czech Republic,0.0,0.0,0.3,Europe
+36,Denmark,0.3,0.3,0.4,Europe
+37,Djibouti,14.27,34.7,65.09,Africa
+38,Dominican Republic,0.8,4.0,15.2,North America
+39,East Timor,22.0,65.9,91.8,Asia
+40,Ecuador,6.5,14.2,30.6,South America
+41,Egypt,4.07,29.93,73.43,Africa
+42,El Salvador,1.3,5.7,22.3,North America
+43,Estonia,0.5,0.8,1.3,Europe
+44,Eswatini,27.53,51.11,70.93,Africa
+45,Ethiopia,19.54,52.82,85.67,Africa
+46,Fiji,2.6,17.8,55.5,Oceania
+47,Finland,0.0,0.1,0.1,Europe
+48,France,0.02,0.02,0.11,Europe
+49,Gabon,3.42,11.3,32.37,Africa
+50,"Gambia, The",7.98,32.53,68.09,Africa
+51,Georgia,4.2,17.0,37.6,Europe
+52,Germany,0.0,0.24,0.5,Europe
+53,Ghana,10.7,25.85,50.27,Africa
+54,Greece,0.7,1.3,3.4,Europe
+55,Guatemala,6.64,20.13,43.29,North America
+56,Guinea,21.26,55.11,85.7,Africa
+57,Guinea-Bissau,62.65,82.41,92.21,Africa
+58,Guyana,6.01,11.55,23.84,South America
+59,Haiti,20.33,43.75,73.5,North America
+60,Honduras,14.8,29.0,49.0,North America
+61,Hungary,0.3,0.7,1.8,Europe
+62,Iceland,0.0,0.0,0.04,Europe
+63,India,2.9,9.7,23.78,Asia
+64,Indonesia,2.3,18.8,50.9,Asia
+65,Iran,0.6,4.3,17.8,Asia
+66,Iraq,1.26,12.56,48.29,Asia
+67,Ireland,0.24,0.32,0.4,Europe
+68,Israel,0.24,0.74,2.47,Asia
+69,Italy,1.39,1.82,3.05,Europe
+70,Ivory Coast,22.06,50.07,76.9,Africa
+71,Jamaica,1.8,9.31,29.93,North America
+72,Japan,0.73,0.94,1.21,Asia
+73,Jordan,0.1,1.77,16.25,Asia
+74,Kazakhstan,0.01,0.14,3.67,Asia
+75,Kenya,31.25,61.02,83.81,Africa
+76,Kiribati,1.3,16.2,58.5,Oceania
+77,"Korea, South",0.23,0.23,0.74,Asia
+78,Kosovo,0.23,2.56,20.68,Europe
+79,Kyrgyzstan,1.1,16.2,58.1,Asia
+80,Laos,9.35,36.62,69.51,Asia
+81,Latvia,0.2,0.7,2.0,Europe
+82,Lebanon,0.0,0.07,2.5,Asia
+83,Lesotho,28.5,50.76,74.06,Africa
+84,Liberia,48.17,78.54,94.46,Africa
+85,Lithuania,0.5,0.7,1.4,Europe
+86,Luxembourg,0.1,0.1,0.3,Europe
+87,Madagascar,76.55,90.37,97.09,Africa
+88,Malawi,73.5,90.4,97.1,Africa
+89,Malaysia,0.01,0.09,1.39,Asia
+90,Maldives,0.0,0.0,1.7,Asia
+91,Mali,42.26,74.64,93.29,Africa
+92,Malta,0.3,0.4,0.7,Europe
+93,Marshall Islands,0.8,5.2,22.5,Oceania
+94,Mauritania,5.35,22.22,56.33,Africa
+95,Mauritius,0.13,1.79,10.3,Africa
+96,Mexico,3.1,9.8,28.1,North America
+97,Micronesia,15.39,38.25,68.81,Oceania
+98,Moldova,0.0,0.5,13.3,Europe
+99,Mongolia,0.24,3.68,22.3,Asia
+100,Montenegro,2.19,4.72,12.92,Europe
+101,Morocco,0.6,5.17,24.1,Africa
+102,Mozambique,62.29,81.41,91.77,Africa
+103,Myanmar,0.87,11.23,47.38,Asia
+104,Namibia,15.95,33.32,54.08,Africa
+105,Nepal,4.78,30.66,67.91,Asia
+106,Netherlands,0.1,0.1,0.3,Europe
+107,Nicaragua,3.45,13.15,35.49,North America
+108,Niger,39.29,73.01,91.89,Africa
+109,Nigeria,39.2,71.06,92.04,Africa
+110,North Macedonia,3.32,6.72,16.59,Europe
+111,Pakistan,10.2,56.2,80.3,Asia
+112,Palestine,0.89,4.54,22.32,Asia
+113,Panama,1.2,4.6,12.1,North America
+114,Papua New Guinea,26.18,50.8,77.57,Oceania
+115,Paraguay,0.8,4.7,17.9,South America
+116,Peru,4.4,14.1,32.9,South America
+117,Philippines,2.7,17.0,47.0,Asia
+118,Poland,0.0,0.04,1.2,Europe
+119,Portugal,0.1,0.2,0.9,Europe
+120,Romania,2.0,4.1,9.2,Europe
+121,Russia,0.03,0.33,3.27,"Asia, Europe"
+122,Rwanda,48.97,75.6,90.04,Africa
+123,Saint Lucia,4.37,9.37,18.61,North America
+124,Samoa,0.56,6.61,26.78,Oceania
+125,São Tomé and Príncipe,35.45,65.25,86.18,Africa
+126,Senegal,27.5,55.69,81.86,Africa
+127,Serbia,2.3,4.0,10.1,Europe
+128,Seychelles,0.4,0.97,4.76,Africa
+129,Sierra Leone,40.06,74.37,92.08,Africa
+130,Slovakia,0.1,0.4,1.3,Europe
+131,Slovenia,0.0,0.0,0.1,Europe
+132,Solomon Islands,22.94,56.24,83.38,Oceania
+133,Somalia,68.66,88.97,97.87,Africa
+134,South Africa,19.67,38.49,57.85,Africa
+135,South Sudan,80.71,93.27,98.44,Africa
+136,Spain,0.8,1.2,2.5,Europe
+137,Sri Lanka,0.57,8.58,37.32,Asia
+138,Sudan,13.62,46.21,80.69,Africa
+139,Suriname (Urban),17.53,24.73,38.31,South America
+140,Sweden,0.3,0.4,0.6,Europe
+141,Switzerland,0.03,0.04,0.14,Europe
+142,Syria,34.57,67.63,88.68,Asia
+143,Tajikistan,2.21,11.13,38.49,Asia
+144,Tanzania,47.72,75.7,91.4,Africa
+145,Thailand,0.0,0.3,6.4,Asia
+146,Togo,45.29,69.57,88.31,Africa
+147,Tonga,0.58,5.94,23.98,Asia
+148,Trinidad and Tobago,0.28,1.16,6.12,South America
+149,Tunisia,0.22,2.84,16.41,Africa
+150,Turkey,0.4,2.2,10.2,"Asia, Europe"
+151,Turkmenistan,1.75,8.65,30.33,Asia
+152,Tuvalu,0.28,8.99,30.1,Oceania
+153,Uganda,41.0,70.5,89.0,Africa
+154,Ukraine,0.0,0.1,2.5,Europe
+155,United Arab Emirates,0.0,0.0,0.0,Asia
+156,United Kingdom,0.3,0.46,0.86,Europe
+157,United States,1.0,1.0,1.5,North America
+158,Uruguay,0.2,0.7,4.6,South America
+159,Uzbekistan,10.68,38.36,75.14,Asia
+160,Vanuatu,8.6,32.3,68.1,Oceania
+161,Venezuela,6.7,14.3,32.7,South America
+162,Vietnam,1.35,5.69,19.87,Asia
+163,Yemen,54.69,81.99,94.55,Asia
+164,Zambia,58.52,75.21,87.95,Africa
+165,Zimbabwe,39.5,63.8,82.8,Africa
